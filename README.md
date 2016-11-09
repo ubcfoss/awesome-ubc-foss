@@ -4,13 +4,13 @@ A curated list of awesome Free and Open Source Software projects at the Universi
 
 ## Projects
 
-* [UBC Library Open Collections](https://github.com/ubc-library/open-collections-discovery-ui) - Discovery UI Component for [Open Collections](https://open.library.ubc.ca/)at UBC.
+* [UBC Library Open Collections](https://github.com/ubc-library/open-collections-discovery-ui) - Discovery UI Component for [Open Collections](https://open.library.ubc.ca/) at UBC.
 * [Jalibut](https://github.com/darshandsoni/jalibut) - Search ahead baed directory that can be used to showcase any collection of entities (based on a tool developed for a website at the Faculty of Education).
 * [WP Side Comments](https://github.com/richardtape/wp-side-comments) - Medium.com-style inline commenting for WordPress.
 
 ## Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/vinta/awesome-python/blob/master/CONTRIBUTING.md) first.
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/ubcfoss/awesome-ubc-foss/blob/master/CONTRIBUTING.md) first.
 
 ## License
 
