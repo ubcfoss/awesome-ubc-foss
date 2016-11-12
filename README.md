@@ -22,6 +22,7 @@ UBC departments, teams, and organizations on GitHub:
 * [SALT Lab @ UBC](https://github.com/saltlab) - Software Analysis and Testing Research Lab.
 * [UBC](https://github.com/ubc) - The main UBC repo
 * [UBC-Astrophysics](https://github.com/UBC-Astrophysics)
+* [UBC Chem-E-Car](https://github.com/ubcchemecar) - UBC team for annual Chemical Engineering competition to design, build and test a shoe-box sized car from scratch.
 * [UBC Communications & Marketing](https://github.com/UBCCM)
 * [UBC Computer Vision and Robotics Lab](https://github.com/UBC-CVLab)
 * [UBC ECESS](https://github.com/ubcecess) - The Electrical & Computer Engineering Student Society (ECESS) at UBC.
