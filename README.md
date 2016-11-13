@@ -9,7 +9,7 @@ A curated list of awesome Free and Open Source Software projects at the Universi
 * [GPG: Geophysics for Practicing Geoscientists](https://github.com/ubcgif/gpg) - A learning resource for applied geophysics.
 * [Jalibut](https://github.com/darshandsoni/jalibut) - Search ahead based directory that can be used to showcase any collection of entities (based on a tool developed for a website at the Faculty of Education).
 * [Phonological CorpusTools](https://github.com/PhonologicalCorpusTools/CorpusTools) - Open-source tool for doing phonological analysis on transcribed corpora.
-* [TellForm](https://tellform.com)- An opensource form builder focused on beatiful UX and UI.
+* [TellForm](https://tellform.com)- An opensource form builder focused on beautiful UX and UI.
 * [UBC Library Open Collections](https://github.com/ubc-library/open-collections-discovery-ui) - Discovery UI Component for [Open Collections](https://open.library.ubc.ca/) at UBC.
 * [Ubcpi](https://github.com/ubc/ubcpi) - UBC Peer Instruction Tool for EdX.
 * [WP Side Comments](https://github.com/richardtape/wp-side-comments) - Medium.com-style inline commenting for WordPress.
