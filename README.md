@@ -15,7 +15,7 @@ A curated list of awesome Free and Open Source Software projects at the Universi
 * [WP Side Comments](https://github.com/richardtape/wp-side-comments) - Medium.com-style inline commenting for WordPress.
 
 ## See also
-
+* [ubcfoss.slack.com](https://ubcfoss.slack.com/) - A Slack team for discussion about UBC FOSS and software development in general.
 * [UBC Orgs](https://github.com/ubcfoss/ubc-orgs) - A list of UBC organizations on GitHub.
 
 ## Contributing
