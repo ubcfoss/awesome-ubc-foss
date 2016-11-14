@@ -2,6 +2,14 @@
 
 A curated list of awesome Free and Open Source Software projects at the University of British Columbia.
 
+##Table of Contents
+
+- [Projects](#Projects)
+- [See Also](#See Also)
+- [Contributing](#Contributing)
+- [License](#License)
+
+
 ## Projects
 
 * [Dispatch](https://github.com/ubyssey/dispatch) - A publishing platform for modern newspapers.
