@@ -17,6 +17,7 @@ A curated list of awesome Free and Open Source Software projects at the Universi
 * [Brick](https://github.com/alfredxing/brick)- Web fonts that actually look good.
 * [Dphil](https://github.com/ubcsanskrit/dphil) - UBC Sanskrit Digital Philology ruby tools.
 * [Em](https://github.com/ubcgif/em) - Resource for electromagnetic geophysics.
+* [Http.js](https://github.com/wylst/http.js) - Make HTTP/AJAX calls on the browser.
 * [GPG: Geophysics for Practicing Geoscientists](https://github.com/ubcgif/gpg) - A learning resource for applied geophysics.
 * [Jalibut](https://github.com/darshandsoni/jalibut) - Search ahead based directory that can be used to showcase any collection of entities (based on a tool developed for a website at the Faculty of Education).
 * [Phonological CorpusTools](https://github.com/PhonologicalCorpusTools/CorpusTools) - Open source tool for doing phonological analysis on transcribed corpora.
@@ -27,7 +28,7 @@ A curated list of awesome Free and Open Source Software projects at the Universi
 * [UBC Library Open Collections](https://github.com/ubc-library/open-collections-discovery-ui) - Discovery UI Component for [Open Collections](https://open.library.ubc.ca/) at UBC.
 * [Ubcpi](https://github.com/ubc/ubcpi) - UBC Peer Instruction Tool for EdX.
 * [WP Side Comments](https://github.com/richardtape/wp-side-comments) - Medium.com-style inline commenting for WordPress.
-* [Http.js](https://github.com/wylst/http.js) - Make HTTP/AJAX calls on the browser
+
 
 ## See also
 * [ubcfoss.slack.com](https://ubcfoss.slack.com/) - A Slack team for discussion about UBC FOSS and software development in general.
