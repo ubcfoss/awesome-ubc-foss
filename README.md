@@ -30,7 +30,7 @@ A curated list of awesome Free and Open Source Software projects at the Universi
 * [UBC Library Open Collections](https://github.com/ubc-library/open-collections-discovery-ui) - Discovery UI Component for [Open Collections](https://open.library.ubc.ca/) at UBC.
 * [Ubcpi](https://github.com/ubc/ubcpi) - UBC Peer Instruction Tool for EdX.
 * [WP Side Comments](https://github.com/richardtape/wp-side-comments) - Medium.com-style inline commenting for WordPress.
-
+* [WebSync](https://github.com/d4l3k/WebSync) - Opensource alternative to Google Docs or Word 365
 
 ## See also
 * [ubcfoss.slack.com](https://ubcfoss.slack.com/) - A Slack team for discussion about UBC FOSS and software development in general.
