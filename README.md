@@ -15,13 +15,13 @@ A curated list of awesome Free and Open Source Software projects at the Universi
 
 * [Dispatch](https://github.com/ubyssey/dispatch) - A publishing platform for modern newspapers.
 * [Arduino interface](https://github.com/UBCSailbot/arduino-interface) - NPM module for safely interfacing with your Arduino over serial.
-* [Brick](https://github.com/alfredxing/brick)- Web fonts that actually look good.
+* [Brick](https://github.com/alfredxing/brick) - Web fonts that actually look good.
 * [Dphil](https://github.com/ubcsanskrit/dphil) - UBC Sanskrit Digital Philology ruby tools.
 * [Em](https://github.com/ubcgif/em) - Resource for electromagnetic geophysics.
 * [Http.js](https://github.com/wylst/http.js) - Make HTTP/AJAX calls on the browser.
 * [GPG: Geophysics for Practicing Geoscientists](https://github.com/ubcgif/gpg) - A learning resource for applied geophysics.
 * [Jalibut](https://github.com/darshandsoni/jalibut) - Search ahead based directory that can be used to showcase any collection of entities (based on a tool developed for a website at the Faculty of Education).
-* [LumberMill](https://github.com/ubclaunchpad/LumberMill)- Stupidly simple logging for iOS
+* [LumberMill](https://github.com/ubclaunchpad/LumberMill) - Stupidly simple logging for iOS
 * [Phonological CorpusTools](https://github.com/PhonologicalCorpusTools/CorpusTools) - Open source tool for doing phonological analysis on transcribed corpora.
 * [RapidPrint](https://github.com/UBCRapid/RapidPrint) - Responsive web interface for controlling a 3D printer.
 * [Salarydb](https://github.com/ubyssey/salarydb) - A web interface for UBC's Public Sector Salary information.
@@ -29,8 +29,8 @@ A curated list of awesome Free and Open Source Software projects at the Universi
 * [TellForm](https://tellform.com) - An open source form builder focused on beautiful UX and UI.
 * [UBC Library Open Collections](https://github.com/ubc-library/open-collections-discovery-ui) - Discovery UI Component for [Open Collections](https://open.library.ubc.ca/) at UBC.
 * [Ubcpi](https://github.com/ubc/ubcpi) - UBC Peer Instruction Tool for EdX.
-* [WP Side Comments](https://github.com/richardtape/wp-side-comments) - Medium.com-style inline commenting for WordPress.
 * [WebSync](https://github.com/d4l3k/WebSync) - Opensource alternative to Google Docs or Word 365
+* [WP Side Comments](https://github.com/richardtape/wp-side-comments) - Medium.com-style inline commenting for WordPress.
 
 ## See also
 * [ubcfoss.slack.com](https://ubcfoss.slack.com/) - A Slack team for discussion about UBC FOSS and software development in general.
