@@ -16,6 +16,7 @@ A curated list of awesome Free and Open Source Software projects at the Universi
 * [Dispatch](https://github.com/ubyssey/dispatch) - A publishing platform for modern newspapers.
 * [Arduino interface](https://github.com/UBCSailbot/arduino-interface) - NPM module for safely interfacing with your Arduino over serial.
 * [Brick](https://github.com/alfredxing/brick) - Web fonts that actually look good.
+* [Cyann](https://github.com/Cyann-UBC/Cyann) - A lightweight learning management system.
 * [Dphil](https://github.com/ubcsanskrit/dphil) - UBC Sanskrit Digital Philology ruby tools.
 * [Em](https://github.com/ubcgif/em) - Resource for electromagnetic geophysics.
 * [Http.js](https://github.com/wylst/http.js) - Make HTTP/AJAX calls on the browser.
