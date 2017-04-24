@@ -3,10 +3,10 @@
 
 A curated list of awesome Free and Open Source Software projects at the University of British Columbia.
 
-##Table of Contents
+## Table of Contents
 
 - [Projects](#Projects)
-- [See Also](#See Also)
+- [See Also](#see-also)
 - [Contributing](#Contributing)
 - [License](#License)
 
