@@ -19,6 +19,7 @@ A curated list of awesome Free and Open Source Software projects at the Universi
 * [Cyann](https://github.com/Cyann-UBC/Cyann) - A lightweight learning management system.
 * [Dphil](https://github.com/ubcsanskrit/dphil) - UBC Sanskrit Digital Philology ruby tools.
 * [Em](https://github.com/ubcgif/em) - Resource for electromagnetic geophysics.
+* [Emoji-Feedback](https://github.com/ubc/emoji-feedback) - General emoji-driven feedback eliciting tool, to be used in Learning Analytics projects.
 * [Enhanced LTI Building Block](https://github.com/ubc/enhanced-basiclti-b2) - The Basic LTI Building Block with enhanced features.
 * [ErmineJ](http://erminej.chibi.ubc.ca/) - Powerful, flexible and simple gene set analysis from the Centre for High-Throughput Biology.
 * [FieldPress](https://github.com/open-geography/FieldPressPlugin) - A WordPress plugin that allows instructors to create and manage field trips online, developed by the UBC Geography team.
