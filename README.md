@@ -26,9 +26,11 @@ A curated list of awesome Free and Open Source Software projects at the Universi
 * [FieldPress](https://github.com/open-geography/FieldPressPlugin) - A WordPress plugin that allows instructors to create and manage field trips online, developed by the UBC Geography team.
 * [Http.js](https://github.com/wylst/http.js) - Make HTTP/AJAX calls on the browser.
 * [GPG: Geophysics for Practicing Geoscientists](https://github.com/ubcgif/gpg) - A learning resource for applied geophysics.
+* [Inertia](https://github.com/ubclaunchpad/inertia) - Self-hosted continuous deployment for small teams and projects.
 * [iPeer](https://github.com/ubc/iPeer) - A web-based application that allows instructors to develop and deliver rubric-based peer evaluations.
 * [Jalibut](https://github.com/darshandsoni/jalibut) - Search ahead based directory that can be used to showcase any collection of entities (based on a tool developed for a website at the Faculty of Education).
-* [LumberMill](https://github.com/ubclaunchpad/LumberMill) - Stupidly simple logging for iOS
+* [LumberMill](https://github.com/ubclaunchpad/LumberMill) - Stupidly simple logging for iOS.
+* [Minutes](https://github.com/ubclaunchpad/minutes) - Speaker diarization via transfer learning.
 * [Phonological CorpusTools](https://github.com/PhonologicalCorpusTools/CorpusTools) - Open source tool for doing phonological analysis on transcribed corpora.
 * [RapidPrint](https://github.com/UBCRapid/RapidPrint) - Responsive web interface for controlling a 3D printer.
 * [RichReview](https://github.com/DongwookYoon/RichReviewXBlock) - Rich and Expressive Communication over Shared Documents.
@@ -37,7 +39,7 @@ A curated list of awesome Free and Open Source Software projects at the Universi
 * [TellForm](https://tellform.com) - An open source form builder focused on beautiful UX and UI.
 * [UBC Library Open Collections](https://github.com/ubc-library/open-collections-discovery-ui) - Discovery UI Component for [Open Collections](https://open.library.ubc.ca/) at UBC.
 * [Ubcpi](https://github.com/ubc/ubcpi) - UBC Peer Instruction Tool for EdX.
-* [WebSync](https://github.com/d4l3k/WebSync) - Opensource alternative to Google Docs or Word 365
+* [WebSync](https://github.com/d4l3k/WebSync) - Opensource alternative to Google Docs or Word 365.
 * [Wiki Embed](https://github.com/ubc/wiki-embed) - WordPress plugin that lets you embed mediawiki pages into your site.
 * [WP Side Comments](https://github.com/richardtape/wp-side-comments) - Medium.com-style inline commenting for WordPress.
 
