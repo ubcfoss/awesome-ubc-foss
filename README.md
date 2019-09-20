@@ -30,6 +30,7 @@ A curated list of awesome Free and Open Source Software projects at the Universi
 * [LumberMill](https://github.com/ubclaunchpad/LumberMill) - Stupidly simple logging for iOS
 * [Phonological CorpusTools](https://github.com/PhonologicalCorpusTools/CorpusTools) - Open source tool for doing phonological analysis on transcribed corpora.
 * [RapidPrint](https://github.com/UBCRapid/RapidPrint) - Responsive web interface for controlling a 3D printer.
+* [RichReview](https://github.com/DongwookYoon/RichReviewXBlock) - Rich and Expressive Communication over Shared Documents.
 * [Salarydb](https://github.com/ubyssey/salarydb) - A web interface for UBC's Public Sector Salary information.
 * [Talos simulator](https://github.com/openrobotics/talos_simulator) - Robot Operating System package used to simulate the Talos robot.
 * [TellForm](https://tellform.com) - An open source form builder focused on beautiful UX and UI.
